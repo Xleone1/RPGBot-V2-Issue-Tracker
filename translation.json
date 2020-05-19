@@ -2,124 +2,151 @@
   "Language updated!": {
     "fr": "Langue définie avec succès !",
     "jp": "言語が更新された。",
-    "pt": "Idioma atualizado!"
+    "pt": "Idioma atualizado!",
+    "sp": "Idioma actualizado!"
   },
   "View server settings": {
     "fr": "Voir les réglages du serveur",
     "jp": "コンフィグを表示する。",
-    "pt": "Exibir configurações do servidor"
+    "pt": "Exibir configurações do servidor",
+    "sp": "Ver configuraciones del servidor"
   },
   "Display information about a character": {
     "fr": "Montrer les informations sur une personnage",
     "jp": "キャラクターの情報を表示する。",
-    "pt": "Exibir informações sobre um personagem"
+    "pt": "Exibir informações sobre um personagem",
+    "sp": "Mostrar información sobre un personaje"
   },
   "View all the characters for the server": {
     "fr": "Voir tous les personnages du serveur",
     "jp": "サーバのキャラクターをみんな見る。",
-    "pt": "Exibir todos os personagens do servidor"
+    "pt": "Exibir todos os personagens do servidor",
+    "sp": "Ver todos los personajes del servidor"
   },
   "Give an item from your inventory to another character.\nUsage:\n    - rp!give Banana 5 @Henry#8808\n    - rp!give Banana 6 charname": {
     "fr": "Donner un item de votre inventaire à une autre personnage.\nUtilisation:\n    - rp!give Banane 5 @Henry#8808\n    - rp!give Banane 6 nom",
-    "pt": "Dar um item do seu inventário para outro personagem.\nUso:\n    - rp!give Banana 5 @Henry#8808\n    - rp!give Banana 6 nomeDoPersonagem"
+    "pt": "Dar um item do seu inventário para outro personagem.\nUso:\n    - rp!give Banana 5 @Henry#8808\n    - rp!give Banana 6 nomeDoPersonagem",
+    "sp": "Dar un item de tu inventario a otro personaje.\nUso:\n    - rp!give Banana 5 @Henry#8808\n    - rp!give Banana 6 nombredelpersonaje"
+    
   },
   "View your or another user's inventory": {
     "fr": "Voir votre inventaire ou l'inventaire d'un autre personnage.",
     "jp": "あなたや別個なキャラクターの在庫を見る。",
-    "pt": "Exibir seu inventário ou o de outro jogador"
+    "pt": "Exibir seu inventário ou o de outro jogador",
+    "sp": "Ver tu inventario o el de otro usuario"
   },
   "Give an item to a number of characters as an administrator, rather than from your inventory\nUsage:\n    - rp!giveitem Banana 12 @Henry#8808 @terabix#0001\n    - rp!giveitem Banana 13 mycharacter character2\n    - rp!giveitem Banana 14 @Administrators @\u200Beveryone": {
     "fr": "Donner un item à quelques personnages comme administrateur, pas de votre inventaire\nUtilisation:\n    - rp!giveitem Banane 12 @Henry#8808 @terabix#0001\n    - rp!giveitem Banane 13 perso1 perso2\n    - rp!giveitem Banane 14 @Administrateurs @\u200Beveryone",
-    "pt": "Dar um item a um número de personagem como administrador, e não a partir do seu inventário\nUso:\n    - rp!giveitem Banana 12 @Henry#8808 @terabix#0001\n    - rp!giveitem Banana 13 personagem1 personagem2\n    - rp!giveitem Banana 14 @Administrators @\u200Beveryone"
+    "pt": "Dar um item a um número de personagem como administrador, e não a partir do seu inventário\nUso:\n    - rp!giveitem Banana 12 @Henry#8808 @terabix#0001\n    - rp!giveitem Banana 13 personagem1 personagem2\n    - rp!giveitem Banana 14 @Administrators @\u200Beveryone",
+    "sp": "Dar un objeto a un número de personajes como administrador, y no de tu propio inventario\nUso:\n    - rp!giveitem Banana 12 @Henry#8808 @terabix#0001\n    - rp!giveitem Banana 13 personaje1 personaje2\n    - rp!giveitem Banana 14 @Admins @\u200Beveryone"
   },
   "See the items for the server": {
     "fr": "Voir les items du serveur",
     "jp": "サーバのアイテムをみんな見る。",
-    "pt": "Ver os items do servidor"
+    "pt": "Ver os items do servidor",
+    "sp": "Ver los items del servidor"
+
   },
   "Subcommands for items and view info about an item\nUsage: rp!item Banana": {
     "fr": "Sous-commandes pour les items et voir les informations sur un item\nUtilisation: rp!item Banane",
-    "pt": "Subcomandos para itens e exibir informações sobre um item\nUso: rp!item Banana"
+    "pt": "Subcomandos para itens e exibir informações sobre um item\nUso: rp!item Banana",
+    "sp": "Subcomandos para items y para mostrar información sobre un objeto\nUso: rp!item Banana"
   },
   "View your money": {
     "fr": "Voir votre argent",
     "jp": "お金を見る。",
-    "pt": "Exibir seu dinheiro"
+    "pt": "Exibir seu dinheiro",
+    "sp": "Ver tu dinero"
   },
   "Subcommands for economy": {
     "fr": "Sous-commandes pour l'économie",
     "jp": "エコノミーのサブコマンドを見る",
-    "pt": "Subcomandos para economia"
+    "pt": "Subcomandos para economia",
+    "sp": "Subcomandos para economía"
   },
   "Give money to users, same syntax as rp!giveitem": {
     "fr": "Donner l'argent aux personnages, syntax est la pareille à rp!giveitem",
-    "pt": "Dar dinheiro para usuários, mesma sintaxe de rp!giveitem"
+    "pt": "Dar dinheiro para usuários, mesma sintaxe de rp!giveitem",
+    "sp": "Dar dinero a los usuarios, mismo sintaxis que rp!giveitem"
   },
   "Pay money from your pocket to another user": {
     "fr": "Paier l'argent de votre poche à une autre personnage",
-    "pt": "Pagar dinheiro do seu bolso para outro usuário"
+    "pt": "Pagar dinheiro do seu bolso para outro usuário",
+    "sp": "Pagar dinero de tu bolsillo a otro jugador"
   },
   "View all the guilds for a server": {
     "fr": "Voir toutes les guildes du serveur",
     "jp": "サーバのギルドをみんな見る。",
-    "pt": "Exibir todas as guildas do servidor"
+    "pt": "Exibir todas as guildas do servidor",
+    "sp": "Ver todas las guilds del servidor"
   },
   "Deposit money from your pocket into the bank": {
     "fr": "Depenser de l'argent de votre poche dans la banque",
     "jp": "小遣いから銀行に貯金をする。",
-    "pt": "Depositar dinheiro do seu bolso no banco"
+    "pt": "Depositar dinheiro do seu bolso no banco",
+    "sp": "Depositar dinero de tu bolsillo al banco"
   },
   "Withdraw money from the bank into your pocket": {
     "fr": "Retirer de l'argent de la banque à votre poche",
     "jp": "銀行から小遣いにお金を下ろす。",
-    "pt": "Retirar dinheiro do banco para o seu bolso"
+    "pt": "Retirar dinheiro do banco para o seu bolso","sp": "Retirar dinero del banco hacia tu bolsillo"
   },
   "You are not assumed!": {
     "fr": "Vous n'avez pas assumé une personnage.",
-    "pt": "Você não associou um personagem."
+    "pt": "Você não associou um personagem.",
+    "sp": "No te has asociado a un personaje"
   },
   "That is not a valid lottery!": {
     "fr": "Ce n'est pas une loterie valide",
     "jp": "このロートが存在しない。",
-    "pt": "Esta não é uma loteria válida!"
+    "pt": "Esta não é uma loteria válida!",
+    "sp": "Esta no es una loteria valida!"
   },
   "You're already in this lottery!": {
     "fr": "Vous avez déja rejoint cette loterie",
     "jp": "もうこのロートに加わている",
-    "pt": "Você já entrou dessa loteria!"
+    "pt": "Você já entrou dessa loteria!",
+    "sp": "Ya estás en esta lotería"
   },
   "Successfully joined the lottery!": {
     "fr": "Loterie rejointe avec succés !",
     "jp": "ロートに加わた",
-    "pt": "Entrou com sucesso na loteria!"
+    "pt": "Entrou com sucesso na loteria!",
+    "sp": "Te uniste a la loteria con exito"
   },
   "Money: ${:.2f}\nItems: {}\nTime Left: {}\nEntrants: {}": {
     "fr": "Argent: ${:.2f}\nItems: {}\nTemps Restant: {}\nParticipants: {}",
-    "pt": "Dinheiro: ${:.2f}\nItens: {}\nTempo Restante: {}\nParticipantes: {}"
+    "pt": "Dinheiro: ${:.2f}\nItens: {}\nTempo Restante: {}\nParticipantes: {}",
+    "sp": "Dinero: ${:.2f}\nItems: {}\nTiempo Restante: {}\nParticipantes: {}"
   },
   "No active lotteries!": {
     "fr": "Aucune loteries actives",
     "jp": "ロートがない",
-    "pt": "Sem loterias ativas!"
+    "pt": "Sem loterias ativas!",
+    "sp": "No hay loterias activas"
   },
   "Holds subcommands for lottery. See currently running lotteries": {
     "fr": "Voir les sous-commandes pour la loterie et les loteries qui sont en train de passer.",
-    "pt": "Visualize os subcomandos para loteria e as loterias que estão acontecendo."
+    "pt": "Visualize os subcomandos para loteria e as loterias que estão acontecendo.",
+    "sp": "Comandos para ver las loterias que se encuentran corriendo"
   },
   "Create a lottery": {
     "fr": "Créer un loterie",
     "jp": "ロートを作る。",
-    "pt": "Crie uma loteria"
+    "pt": "Crie uma loteria",
+    "sp": "Crear una loteria"
   },
   "Enter the lottery with the given name": {
     "fr": "Rejoindre la loterie avec le nom donné",
     "jp": "このロートに加わている",
-    "pt": "Participe da loteria com o nome informado"
+    "pt": "Participe da loteria com o nome informado",
+    "sp": "Entrar a la loteria con el nombre dado"
   },
   "Successfully gave money": {
     "fr": "Argent donné avec succés",
     "jp": "お金を払った",
-    "pt": "Dinheiro fornecido com sucesso"
+    "pt": "Dinheiro fornecido com sucesso",
+    "sp": "Dinero entregado con exito"
   },
   "Character {} does not exist!": {
     "fr": "Personnage {} n'existe pas !",
